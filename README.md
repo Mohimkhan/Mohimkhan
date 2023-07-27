@@ -1,6 +1,6 @@
-<h1 align="center">🌐Greetings, fellow wanderers of the digital cosmos!👋,</h1>
+<h1 align="left">🌐Greetings, fellow wanderers of the digital cosmos!👋,</h1>
 
-<h3 align="center">🚀 Welcome to my GitHub galaxy!, Iam a 👨‍💻 Intergalactic and passionate frontend developer from Bangladesh</h3>
+<h3 align="left">🚀 Welcome to my GitHub galaxy!, Iam a 👨‍💻 Intergalactic and passionate frontend developer from Bangladesh</h3>
 
 
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
