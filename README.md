@@ -1,4 +1,4 @@
-<h1 align="left">🌐 Greetings, my web-developer friends👋,</h1>
+<h1 align="center">🌐 Greetings, my programmer friends👋,</h1>
 
 <h3 align="left">🚀 Welcome to my GitHub galaxy!, Iam a 👨‍💻 Intergalactic and passionate frontend developer from Bangladesh</h3>
 
