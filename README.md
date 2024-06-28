@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="500" height="250" src="https://www.lambdatest.com/resources/images/news24.gif">
 
--  🌱 I’m currently learning **React**
+-  🌱 I’m currently learning **Next js**
 
 -  💬 Ask me about **JavaScript**
 
